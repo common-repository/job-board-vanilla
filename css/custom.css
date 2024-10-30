@@ -1,0 +1,22 @@
+
+
+.pagination-sec{
+	margin: 20px 0px;
+}
+
+.job-detail-sec{
+    padding: 30px;
+}
+
+.job-detail-sec .job-list-item{
+	margin: 15px 0px;
+}
+
+.job-detail-sec table, .job-detail-sec table td, .job-detail-sec table th{border: none;}
+
+.job-desc-title{
+	margin-top: 10px;
+}
+.ps-job-sec .job-list-item{
+	padding: 10px;
+}

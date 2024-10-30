@@ -1,0 +1,29 @@
+.note-section{
+	display: none;
+}
+
+.job-app-body table, .job-app-body table td, .job-app-body table th{
+	border: 1px solid #ccc;
+    padding: 5px;
+}
+.job-app-body table{
+	width:100%;
+}
+.job-app-body .pagination{
+	text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    margin:10px;
+}
+.job-app-title{
+	text-align: center;
+}
+.job-app-body a{
+	text-decoration: none;
+}
+.job-app-body .pagination .disabled a{
+	color:#ccc;
+}
+.job-app-body .pagination a{	
+	padding: 0px 10px;
+}
